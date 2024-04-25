@@ -1,0 +1,23 @@
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+    background-image: url(../img/collage-fondo-pelicula.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  
+}
+
+img {
+    width: 15%;
+}
+
+.card{
+    background-color: transparent;
+}
+.btn{
+    font-size: 30px;
+ }
+
+ footer{
+  padding-top: 30px;
+ }
